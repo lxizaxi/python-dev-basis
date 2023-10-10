@@ -1,2 +1,5 @@
-# python-devcontainer
-python開発環境
+```
+$ python -m venv venv
+$ . venv/bin/activate
+(venv)$ 
+```
